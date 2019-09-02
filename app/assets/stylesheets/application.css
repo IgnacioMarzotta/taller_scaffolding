@@ -14,17 +14,17 @@
  *= require_self
  */
 
- footer
- {
-    padding-bottom: 0px;
-    background-color: #494949;
-    text-align: center;
- }
+footer
+{
+   padding-bottom: 0px;
+   background-color: #494949;
+   text-align: center;
+}
 
- .card-deck
- {
-    margin: 2%;
- }
+.card-deck
+{
+   margin: 2%;
+}
 
 .responsiveCal 
 {
@@ -35,6 +35,8 @@
 {
     position: absolute; top:0; left: 0; width: 100%; height: 100%;
 }
+
+
 
 .index-style
 {

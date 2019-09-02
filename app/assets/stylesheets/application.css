@@ -13,3 +13,30 @@
  *= require_tree .
  *= require_self
  */
+
+ footer
+ {
+    padding-bottom: 0px;
+    background-color: #494949;
+    text-align: center;
+ }
+
+ .card-deck
+ {
+    margin: 2%;
+ }
+
+.responsiveCal 
+{
+    position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+}
+ 
+.responsiveCal iframe 
+{
+    position: absolute; top:0; left: 0; width: 100%; height: 100%;
+}
+
+.index-style
+{
+   background-color: #898989
+}
